@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.1_4523db5a853d11dd588a0d5970aa2b09393c80b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_b2104aa57446607e9249b15a08d73e89793a6480.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_e4c84e2611d448d07e85a5cd8cccd2f0a0f54e6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vladislav_kolomysov/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_7bef56745cae353254215ee68932ae88c7d356fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_74acfb6a8e522345eb2e0dcb3eba669dc4c6d7c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d5ae39b0de30b0f73c815513024feff3542f36e">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-25.1.1_4ce8e4168f8e09fc6e19efefd03bc32db4bca6e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_e40601811730cd84623d0f7a97eb88db7b08430b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vladislav_kolomysov/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_adbf5e233d02984450a79709b5dd7579e0b6ced4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vladislav_kolomysov/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_634cee4a60e2ba581095421277c1a98edad26e0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_edd09314e9b420399c378099c98c22e0d0b73384.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_c1f1453c6f4b2af16e72b8e337dd3ea914f04e3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_74dd1f14562513b322100ac1e830ae152a59731d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vladislav_kolomysov/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/glide-3.7.0_06f010cae85ec4616869d4583e408b010bf7a36f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_527706f50f5d9f55c0c8efd45cfd540254cde05f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_5edd6d41b6b2c3723cded3e7ac49c21bb4896a7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_dc9786c5db5e464a92a71ef2ae7e87a463ddbeac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_ca34d7f2de02516f2cfaccbcf3b8772b4fcfd065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="058253c7da6cf5cb545922d07fcc2cd19d5d0ce1">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-25.1.1_bf539c74c86bbbb7d8f54fa82f5d3f41d49d4355.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_64d5466ea6783b9019bc2b9790024ec499337253.jar" />
+    </item>
+
+</items>
