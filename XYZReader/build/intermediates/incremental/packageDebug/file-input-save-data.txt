@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Mar 30 22:45:43 MSK 2017
+#Thu Mar 30 22:52:33 MSK 2017
 210.set=ANDROID_RESOURCE
 282.file=/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable-v21/avd_hide_password_2.xml
 14.set=ANDROID_RESOURCE

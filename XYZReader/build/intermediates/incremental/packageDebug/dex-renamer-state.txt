@@ -1,4 +1,4 @@
-#Thu Mar 30 22:45:43 MSK 2017
+#Thu Mar 30 22:52:33 MSK 2017
 base.0=/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
