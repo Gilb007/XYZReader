@@ -1,23 +1,23 @@
 [
     {
-        "outputFile": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+        "outputFile": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 69,
-                    "endOffset": 120
+                    "endColumn": 61,
+                    "endOffset": 112
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-land/values-land.xml",
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/b87b6252544af5b9b9db8cc9310a2eb18aabdd47/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 55,
-                        "endColumn": 69,
-                        "endOffset": 120
+                        "endColumn": 61,
+                        "endOffset": 112
                     }
                 }
             },
@@ -25,17 +25,17 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 125,
-                    "endColumn": 63,
+                    "startOffset": 117,
+                    "endColumn": 71,
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-land/values-land.xml",
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/b87b6252544af5b9b9db8cc9310a2eb18aabdd47/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 125,
-                        "endColumn": 63,
+                        "startOffset": 117,
+                        "endColumn": 71,
                         "endOffset": 184
                     }
                 }
@@ -45,17 +45,17 @@
                     "startLine": 4,
                     "startColumn": 4,
                     "startOffset": 189,
-                    "endColumn": 70,
-                    "endOffset": 255
+                    "endColumn": 43,
+                    "endOffset": 228
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-land/values-land.xml",
+                    "file": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/src/main/res/values-land/macro_layout.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 189,
-                        "endColumn": 70,
-                        "endOffset": 255
+                        "startOffset": 36,
+                        "endColumn": 43,
+                        "endOffset": 75
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 260,
-                    "endColumn": 67,
-                    "endOffset": 323
+                    "startOffset": 233,
+                    "endColumn": 69,
+                    "endOffset": 298
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-land/values-land.xml",
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/b87b6252544af5b9b9db8cc9310a2eb18aabdd47/output/res/values-land/values-land.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 260,
-                        "endColumn": 67,
-                        "endOffset": 323
+                        "startOffset": 189,
+                        "endColumn": 69,
+                        "endOffset": 254
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 328,
-                    "endColumn": 57,
-                    "endOffset": 381
+                    "startOffset": 303,
+                    "endColumn": 63,
+                    "endOffset": 362
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/values-land/macro_layout.xml",
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/b87b6252544af5b9b9db8cc9310a2eb18aabdd47/output/res/values-land/values-land.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 88,
-                        "endColumn": 57,
-                        "endOffset": 141
+                        "startOffset": 259,
+                        "endColumn": 63,
+                        "endOffset": 318
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 386,
-                    "endColumn": 51,
+                    "startOffset": 367,
+                    "endColumn": 70,
                     "endOffset": 433
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/values-land/macro_layout.xml",
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/b87b6252544af5b9b9db8cc9310a2eb18aabdd47/output/res/values-land/values-land.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 36,
-                        "endColumn": 51,
-                        "endOffset": 83
+                        "startOffset": 323,
+                        "endColumn": 70,
+                        "endOffset": 389
                     }
                 }
             },
@@ -121,12 +121,304 @@
                     "startLine": 8,
                     "startColumn": 4,
                     "startOffset": 438,
-                    "endLine": 11,
-                    "endColumn": 12,
-                    "endOffset": 615
+                    "endColumn": 67,
+                    "endOffset": 501
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/values-land/values-land.xml",
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/b87b6252544af5b9b9db8cc9310a2eb18aabdd47/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 67,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 506,
+                    "endColumn": 53,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/src/main/res/values-land/macro_layout.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 53,
+                        "endOffset": 238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 560,
+                    "endColumn": 56,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/src/main/res/values-land/macro_layout.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 132,
+                        "endColumn": 56,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 51,
+                    "endOffset": 664
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/src/main/res/values-land/macro_layout.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 80,
+                        "endColumn": 51,
+                        "endOffset": 127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 669,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/077a2997da36efc8685a3782ebc9cd572f36fd31/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 232
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 61,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 71,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 43,
+                    "endOffset": 228
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/values-land/macro_layout.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 36,
+                        "endColumn": 43,
+                        "endOffset": 75
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 233,
+                    "endColumn": 69,
+                    "endOffset": 298
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 69,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 303,
+                    "endColumn": 63,
+                    "endOffset": 362
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 259,
+                        "endColumn": 63,
+                        "endOffset": 318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 367,
+                    "endColumn": 70,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 323,
+                        "endColumn": 70,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 67,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 67,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 506,
+                    "endColumn": 53,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/values-land/macro_layout.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 53,
+                        "endOffset": 238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 560,
+                    "endColumn": 56,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/values-land/macro_layout.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 132,
+                        "endColumn": 56,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 51,
+                    "endOffset": 664
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/values-land/macro_layout.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 80,
+                        "endColumn": 51,
+                        "endOffset": 127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 669,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

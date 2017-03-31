@@ -1,0 +1,4 @@
+#Fri Mar 31 21:16:45 MSK 2017
+base.0=/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

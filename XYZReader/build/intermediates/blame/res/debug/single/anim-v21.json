@@ -1,14 +1,18 @@
 [
     {
-        "merged": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
-        "source": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
-    },
-    {
         "merged": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
-        "source": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/anim-v21/design_bottom_sheet_slide_out.xml"
+        "source": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
-        "source": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/anim-v21/design_bottom_sheet_slide_in.xml"
+        "source": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/vladislav_kolomysov/.android/build-cache/077a2997da36efc8685a3782ebc9cd572f36fd31/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/vladislav_kolomysov/.android/build-cache/077a2997da36efc8685a3782ebc9cd572f36fd31/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     }
 ]

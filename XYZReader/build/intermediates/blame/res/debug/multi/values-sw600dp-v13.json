@@ -11,7 +11,7 @@
                     "endOffset": 119
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -26,17 +26,17 @@
                     "startLine": 3,
                     "startColumn": 4,
                     "startOffset": 124,
-                    "endColumn": 68,
-                    "endOffset": 188
+                    "endColumn": 69,
+                    "endOffset": 189
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 124,
-                        "endColumn": 68,
-                        "endOffset": 188
+                        "endColumn": 69,
+                        "endOffset": 189
                     }
                 }
             },
@@ -44,18 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 193,
-                    "endColumn": 69,
-                    "endOffset": 258
+                    "startOffset": 194,
+                    "endColumn": 73,
+                    "endOffset": 263
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 193,
-                        "endColumn": 69,
-                        "endOffset": 258
+                        "startOffset": 194,
+                        "endColumn": 73,
+                        "endOffset": 263
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 263,
-                    "endColumn": 73,
-                    "endOffset": 332
+                    "startOffset": 268,
+                    "endColumn": 75,
+                    "endOffset": 339
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 263,
-                        "endColumn": 73,
-                        "endOffset": 332
+                        "startOffset": 268,
+                        "endColumn": 75,
+                        "endOffset": 339
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 337,
-                    "endColumn": 75,
-                    "endOffset": 408
+                    "startOffset": 344,
+                    "endColumn": 58,
+                    "endOffset": 398
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 337,
-                        "endColumn": 75,
-                        "endOffset": 408
+                        "startOffset": 344,
+                        "endColumn": 58,
+                        "endOffset": 398
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 413,
-                    "endColumn": 58,
-                    "endOffset": 467
+                    "startOffset": 403,
+                    "endColumn": 70,
+                    "endOffset": 469
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 413,
-                        "endColumn": 58,
-                        "endOffset": 467
+                        "startOffset": 403,
+                        "endColumn": 70,
+                        "endOffset": 469
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 472,
-                    "endColumn": 70,
-                    "endOffset": 538
+                    "startOffset": 474,
+                    "endColumn": 67,
+                    "endOffset": 537
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 472,
-                        "endColumn": 70,
-                        "endOffset": 538
+                        "startOffset": 474,
+                        "endColumn": 67,
+                        "endOffset": 537
                     }
                 }
             },
@@ -139,31 +139,12 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 543,
-                    "endColumn": 67,
-                    "endOffset": 606
-                },
-                "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 543,
-                        "endColumn": 67,
-                        "endOffset": 606
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 611,
+                    "startOffset": 542,
                     "endColumn": 59,
-                    "endOffset": 666
+                    "endOffset": 597
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -175,14 +156,14 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 671,
+                    "startOffset": 602,
                     "endColumn": 69,
-                    "endOffset": 736
+                    "endOffset": 667
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -194,14 +175,14 @@
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 741,
+                    "startOffset": 672,
                     "endColumn": 70,
-                    "endOffset": 807
+                    "endOffset": 738
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -213,14 +194,14 @@
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 812,
+                    "startOffset": 743,
                     "endColumn": 71,
-                    "endOffset": 879
+                    "endOffset": 810
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -232,14 +213,14 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 884,
+                    "startOffset": 815,
                     "endColumn": 57,
-                    "endOffset": 937
+                    "endOffset": 868
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -251,14 +232,14 @@
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 942,
+                    "startOffset": 873,
                     "endColumn": 57,
-                    "endOffset": 995
+                    "endOffset": 926
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -270,14 +251,14 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1000,
+                    "startOffset": 931,
                     "endColumn": 105,
-                    "endOffset": 1101
+                    "endOffset": 1032
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -289,14 +270,14 @@
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1106,
+                    "startOffset": 1037,
                     "endColumn": 63,
-                    "endOffset": 1165
+                    "endOffset": 1096
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -308,11 +289,11 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1170,
+                    "startOffset": 1101,
                     "endColumn": 56,
-                    "endOffset": 1222
+                    "endOffset": 1153
                 },
                 "from": {
                     "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
@@ -327,11 +308,11 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1227,
+                    "startOffset": 1158,
                     "endColumn": 52,
-                    "endOffset": 1275
+                    "endOffset": 1206
                 },
                 "from": {
                     "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/values-sw600dp/dimens.xml",
@@ -346,11 +327,11 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1280,
+                    "startOffset": 1211,
                     "endColumn": 54,
-                    "endOffset": 1330
+                    "endOffset": 1261
                 },
                 "from": {
                     "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
@@ -365,11 +346,11 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1335,
+                    "startOffset": 1266,
                     "endColumn": 56,
-                    "endOffset": 1387
+                    "endOffset": 1318
                 },
                 "from": {
                     "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
@@ -384,11 +365,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1392,
+                    "startOffset": 1323,
                     "endColumn": 65,
-                    "endOffset": 1453
+                    "endOffset": 1384
                 },
                 "from": {
                     "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
@@ -403,11 +384,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1458,
+                    "startOffset": 1389,
                     "endColumn": 58,
-                    "endOffset": 1512
+                    "endOffset": 1443
                 },
                 "from": {
                     "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
@@ -422,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1517,
+                    "startOffset": 1448,
                     "endColumn": 51,
-                    "endOffset": 1564
+                    "endOffset": 1495
                 },
                 "from": {
                     "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
@@ -441,11 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1569,
+                    "startOffset": 1500,
                     "endColumn": 53,
-                    "endOffset": 1618
+                    "endOffset": 1549
                 },
                 "from": {
                     "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/values-sw600dp/dimens.xml",
@@ -460,11 +441,11 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1623,
+                    "startOffset": 1554,
                     "endColumn": 41,
-                    "endOffset": 1660
+                    "endOffset": 1591
                 },
                 "from": {
                     "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/values-sw600dp/dimens.xml",
@@ -479,11 +460,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1665,
+                    "startOffset": 1596,
                     "endColumn": 94,
-                    "endOffset": 1755
+                    "endOffset": 1686
                 },
                 "from": {
                     "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/values-sw600dp/dimens.xml",
@@ -498,14 +479,33 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 1760,
-                    "endColumn": 62,
-                    "endOffset": 1818
+                    "startOffset": 1691,
+                    "endColumn": 54,
+                    "endOffset": 1741
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 542,
+                        "endColumn": 54,
+                        "endOffset": 592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1746,
+                    "endColumn": 62,
+                    "endOffset": 1804
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -519,13 +519,552 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 1823,
+                    "startOffset": 1809,
                     "endLine": 32,
                     "endColumn": 12,
-                    "endOffset": 2000
+                    "endOffset": 1986
                 },
                 "from": {
-                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "file": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 854
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/b87b6252544af5b9b9db8cc9310a2eb18aabdd47/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 68,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 69,
+                    "endOffset": 189
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/b87b6252544af5b9b9db8cc9310a2eb18aabdd47/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 69,
+                        "endOffset": 189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 194,
+                    "endColumn": 73,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/b87b6252544af5b9b9db8cc9310a2eb18aabdd47/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endColumn": 73,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 75,
+                    "endOffset": 339
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/b87b6252544af5b9b9db8cc9310a2eb18aabdd47/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 268,
+                        "endColumn": 75,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 58,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/b87b6252544af5b9b9db8cc9310a2eb18aabdd47/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 344,
+                        "endColumn": 58,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 70,
+                    "endOffset": 469
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/b87b6252544af5b9b9db8cc9310a2eb18aabdd47/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endColumn": 70,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 474,
+                    "endColumn": 67,
+                    "endOffset": 537
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/b87b6252544af5b9b9db8cc9310a2eb18aabdd47/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endColumn": 67,
+                        "endOffset": 537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 542,
+                    "endColumn": 59,
+                    "endOffset": 597
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/077a2997da36efc8685a3782ebc9cd572f36fd31/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 59,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 602,
+                    "endColumn": 69,
+                    "endOffset": 667
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/077a2997da36efc8685a3782ebc9cd572f36fd31/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 69,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 672,
+                    "endColumn": 70,
+                    "endOffset": 738
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/077a2997da36efc8685a3782ebc9cd572f36fd31/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 70,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 743,
+                    "endColumn": 71,
+                    "endOffset": 810
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/077a2997da36efc8685a3782ebc9cd572f36fd31/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 71,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 815,
+                    "endColumn": 57,
+                    "endOffset": 868
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/077a2997da36efc8685a3782ebc9cd572f36fd31/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 57,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 873,
+                    "endColumn": 57,
+                    "endOffset": 926
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/077a2997da36efc8685a3782ebc9cd572f36fd31/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 57,
+                        "endOffset": 439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endColumn": 105,
+                    "endOffset": 1032
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/077a2997da36efc8685a3782ebc9cd572f36fd31/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 444,
+                        "endColumn": 105,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1037,
+                    "endColumn": 63,
+                    "endOffset": 1096
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/077a2997da36efc8685a3782ebc9cd572f36fd31/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 63,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1101,
+                    "endColumn": 56,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endColumn": 56,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 52,
+                    "endOffset": 1206
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 52,
+                        "endOffset": 138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1211,
+                    "endColumn": 54,
+                    "endOffset": 1261
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 54,
+                        "endOffset": 138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1266,
+                    "endColumn": 56,
+                    "endOffset": 1318
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 56,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1323,
+                    "endColumn": 65,
+                    "endOffset": 1384
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 259,
+                        "endColumn": 65,
+                        "endOffset": 320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1389,
+                    "endColumn": 58,
+                    "endOffset": 1443
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 58,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1448,
+                    "endColumn": 51,
+                    "endOffset": 1495
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 36,
+                        "endColumn": 51,
+                        "endOffset": 83
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1500,
+                    "endColumn": 53,
+                    "endOffset": 1549
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 36,
+                        "endColumn": 53,
+                        "endOffset": 85
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1554,
+                    "endColumn": 41,
+                    "endOffset": 1591
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 238,
+                        "endColumn": 41,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1596,
+                    "endColumn": 94,
+                    "endOffset": 1686
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 143,
+                        "endColumn": 94,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1691,
+                    "endColumn": 54,
+                    "endOffset": 1741
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/b87b6252544af5b9b9db8cc9310a2eb18aabdd47/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 542,
+                        "endColumn": 54,
+                        "endOffset": 592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1746,
+                    "endColumn": 62,
+                    "endOffset": 1804
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/077a2997da36efc8685a3782ebc9cd572f36fd31/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 62,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1809,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 1986
+                },
+                "from": {
+                    "file": "/Users/vladislav_kolomysov/.android/build-cache/077a2997da36efc8685a3782ebc9cd572f36fd31/output/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,

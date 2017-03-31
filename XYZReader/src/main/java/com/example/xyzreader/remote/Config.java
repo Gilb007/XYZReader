@@ -3,8 +3,8 @@ package com.example.xyzreader.remote;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-class Config {
-    static final URL BASE_URL;
+public class Config {
+    public static final URL BASE_URL;
 
     static {
         URL url = null;

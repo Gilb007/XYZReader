@@ -2,5 +2,9 @@
     {
         "merged": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/res/merged/debug/menu/main.xml",
         "source": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/src/main/res/menu/main.xml"
     }
 ]

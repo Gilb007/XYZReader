@@ -5,21 +5,18 @@ import android.content.ContentProvider;
 import android.content.ContentProviderOperation;
 import android.content.ContentProviderResult;
 import android.content.ContentValues;
-import android.content.Context;
 import android.content.OperationApplicationException;
 import android.content.UriMatcher;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.net.Uri;
-import android.support.annotation.NonNull;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class ItemsProvider extends ContentProvider {
 	private SQLiteOpenHelper mOpenHelper;
-	private Context context;
 
 	interface Tables {
 		String ITEMS = "items";
@@ -41,12 +38,11 @@ public class ItemsProvider extends ContentProvider {
 	@Override
 	public boolean onCreate() {
         mOpenHelper = new ItemsDatabase(getContext());
-        context = getContext();
 		return true;
 	}
 
 	@Override
-	public String getType(@NonNull Uri uri) {
+	public String getType(Uri uri) {
 		final int match = sUriMatcher.match(uri);
 		switch (match) {
 			case ITEMS:
@@ -59,24 +55,24 @@ public class ItemsProvider extends ContentProvider {
 	}
 
 	@Override
-	public Cursor query(@NonNull Uri uri, String[] projection, String selection, String[] selectionArgs, String sortOrder) {
+	public Cursor query(Uri uri, String[] projection, String selection, String[] selectionArgs, String sortOrder) {
 		final SQLiteDatabase db = mOpenHelper.getReadableDatabase();
 		final SelectionBuilder builder = buildSelection(uri);
 		Cursor cursor = builder.where(selection, selectionArgs).query(db, projection, sortOrder);
         if (cursor != null) {
-            cursor.setNotificationUri(context.getContentResolver(), uri);
+            cursor.setNotificationUri(getContext().getContentResolver(), uri);
         }
         return cursor;
 	}
 
 	@Override
-	public Uri insert(@NonNull Uri uri, ContentValues values) {
+	public Uri insert(Uri uri, ContentValues values) {
 		final SQLiteDatabase db = mOpenHelper.getWritableDatabase();
 		final int match = sUriMatcher.match(uri);
 		switch (match) {
 			case ITEMS: {
 				final long _id = db.insertOrThrow(Tables.ITEMS, null, values);
-                context.getContentResolver().notifyChange(uri, null);
+                getContext().getContentResolver().notifyChange(uri, null);
 				return ItemsContract.Items.buildItemUri(_id);
 			}
 			default: {
@@ -86,18 +82,18 @@ public class ItemsProvider extends ContentProvider {
 	}
 
 	@Override
-	public int update(@NonNull Uri uri, ContentValues values, String selection, String[] selectionArgs) {
+	public int update(Uri uri, ContentValues values, String selection, String[] selectionArgs) {
 		final SQLiteDatabase db = mOpenHelper.getWritableDatabase();
 		final SelectionBuilder builder = buildSelection(uri);
-        context.getContentResolver().notifyChange(uri, null);
+        getContext().getContentResolver().notifyChange(uri, null);
 		return builder.where(selection, selectionArgs).update(db, values);
 	}
 
 	@Override
-	public int delete(@NonNull Uri uri, String selection, String[] selectionArgs) {
+	public int delete(Uri uri, String selection, String[] selectionArgs) {
 		final SQLiteDatabase db = mOpenHelper.getWritableDatabase();
 		final SelectionBuilder builder = buildSelection(uri);
-        context.getContentResolver().notifyChange(uri, null);
+        getContext().getContentResolver().notifyChange(uri, null);
 		return builder.where(selection, selectionArgs).delete(db);
 	}
 
@@ -128,8 +124,7 @@ public class ItemsProvider extends ContentProvider {
      * a {@link SQLiteDatabase} transaction. All changes will be rolled back if
      * any single one fails.
      */
-    @NonNull
-	public ContentProviderResult[] applyBatch(@NonNull ArrayList<ContentProviderOperation> operations)
+    public ContentProviderResult[] applyBatch(ArrayList<ContentProviderOperation> operations)
             throws OperationApplicationException {
         final SQLiteDatabase db = mOpenHelper.getWritableDatabase();
         db.beginTransaction();

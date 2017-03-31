@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
         "source": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/mipmap-hdpi/ic_launcher.png"
     }
