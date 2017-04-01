@@ -128,7 +128,9 @@
     <android.support.design.widget.FloatingActionButton
         app:fabSize="normal"
         app:elevation="6dp"
-        app:pressedTranslationZ="12dp"
+        
+        app:pressedTranslationZ="6dp"
+        android:elevation="6dp"
 
         android:id="@+id/share_fab"
         android:src="@drawable/ic_share"

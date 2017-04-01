@@ -20,32 +20,32 @@
         "source": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/src/main/res/layout/activity_article_detail.xml"
     },
     {
-        "merged": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/Users/vladislav_kolomysov/.android/build-cache/b87b6252544af5b9b9db8cc9310a2eb18aabdd47/output/res/layout/select_dialog_multichoice_material.xml"
-    },
-    {
         "merged": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
         "source": "/Users/vladislav_kolomysov/.android/build-cache/b87b6252544af5b9b9db8cc9310a2eb18aabdd47/output/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_alert_dialog_material.xml"
+        "merged": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/vladislav_kolomysov/.android/build-cache/b87b6252544af5b9b9db8cc9310a2eb18aabdd47/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
         "merged": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
         "source": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
+        "merged": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
         "merged": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
         "source": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_navigation_item_separator.xml"
     },
     {
-        "merged": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_bar_title_item.xml"
-    },
-    {
         "merged": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
         "source": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/vladislav_kolomysov/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_bar_title_item.xml"
     },
     {
         "merged": "/Users/vladislav_kolomysov/Desktop/Udacity-Android-Dev-Nanodegre-P5/XYZReader/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
